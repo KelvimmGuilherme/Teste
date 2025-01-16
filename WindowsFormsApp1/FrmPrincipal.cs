@@ -35,7 +35,7 @@ namespace WindowsFormsApp1
 {
     public class minhaCLasse // definindo a classe
     {
-        public string name = "ta salvado"; //introduzindo uma string
+        public string name = "boa boa"; //introduzindo uma string
     }
 }
     
